@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">FlowLayout Example</string>
+
+    <string name="activity_basic">Basic example</string>
+    <string name="activity_all_in_one">All in one example</string>
+    <string name="activity_visibility">Visibility</string>
+    <string name="activity_scroll">ScrollView</string>
+
+</resources>

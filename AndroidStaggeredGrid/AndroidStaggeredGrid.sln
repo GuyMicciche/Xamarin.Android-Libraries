@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidStaggeredGrid", "AndroidStaggeredGrid\AndroidStaggeredGrid.csproj", "{20F626A5-A678-4C43-87E2-28B9BAAFB16A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidStaggeredGrid.Example", "AndroidStaggeredGrid.Example\AndroidStaggeredGrid.Example.csproj", "{E3C6B174-550A-4404-B5F9-C599C2D07EB4}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://kingguy.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AndroidStaggeredGrid.Example\\AndroidStaggeredGrid.Example.csproj
+		SccProjectName1 = AndroidStaggeredGrid.Example
+		SccLocalPath1 = AndroidStaggeredGrid.Example
+		SccProjectUniqueName2 = AndroidStaggeredGrid\\AndroidStaggeredGrid.csproj
+		SccProjectName2 = AndroidStaggeredGrid
+		SccLocalPath2 = AndroidStaggeredGrid
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20F626A5-A678-4C43-87E2-28B9BAAFB16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F626A5-A678-4C43-87E2-28B9BAAFB16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F626A5-A678-4C43-87E2-28B9BAAFB16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F626A5-A678-4C43-87E2-28B9BAAFB16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C6B174-550A-4404-B5F9-C599C2D07EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C6B174-550A-4404-B5F9-C599C2D07EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C6B174-550A-4404-B5F9-C599C2D07EB4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E3C6B174-550A-4404-B5F9-C599C2D07EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C6B174-550A-4404-B5F9-C599C2D07EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C6B174-550A-4404-B5F9-C599C2D07EB4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

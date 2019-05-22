@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <style name="HoloButton.Borderless" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/item_background_holo_light</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:padding">4dip</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:minWidth">64dip</item>
+    </style>
+
+    <style name="HeaderText" parent="@android:style/Widget.TextView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_marginTop">8dip</item>
+    </style>
+
+</resources>

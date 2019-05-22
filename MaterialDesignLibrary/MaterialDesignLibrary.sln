@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialDesignLibrary", "MaterialDesignLibrary\MaterialDesignLibrary.csproj", "{A6F1760E-D3B0-4A52-B668-343560ADE1EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialDesignLibrary.Example", "MaterialDesignLibrary.Example\MaterialDesignLibrary.Example.csproj", "{1C7D8FAB-5B0D-4C9A-AA1E-0180D725A4CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6F1760E-D3B0-4A52-B668-343560ADE1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F1760E-D3B0-4A52-B668-343560ADE1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F1760E-D3B0-4A52-B668-343560ADE1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F1760E-D3B0-4A52-B668-343560ADE1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7D8FAB-5B0D-4C9A-AA1E-0180D725A4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7D8FAB-5B0D-4C9A-AA1E-0180D725A4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7D8FAB-5B0D-4C9A-AA1E-0180D725A4CE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1C7D8FAB-5B0D-4C9A-AA1E-0180D725A4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7D8FAB-5B0D-4C9A-AA1E-0180D725A4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7D8FAB-5B0D-4C9A-AA1E-0180D725A4CE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
